@@ -1,2 +1,2 @@
 # Proyecto_Videojuego
-Proyecto Videojuego Álvaro y Jorge
+Proyecto Videojuego Álvaro, Jorge y Gabriel
