@@ -1,0 +1,841 @@
+fileFormatVersion: 2
+guid: 71ae396a805ed43da85f95367bf46a17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1181450675022018681
+    second: Idle WaterGirl_0
+  - first:
+      213: -8715631087189085962
+    second: Idle WaterGirl_1
+  - first:
+      213: -696698853192746263
+    second: Idle WaterGirl_2
+  - first:
+      213: -6517000605889551485
+    second: Idle WaterGirl_3
+  - first:
+      213: 2743364818199013467
+    second: Idle WaterGirl_4
+  - first:
+      213: -8727598892585117813
+    second: Idle WaterGirl_5
+  - first:
+      213: -7005715299140698465
+    second: Idle WaterGirl_6
+  - first:
+      213: 3002753117464861704
+    second: Idle WaterGirl_7
+  - first:
+      213: -3155790377741261463
+    second: Idle WaterGirl_8
+  - first:
+      213: 1272718564555412772
+    second: Idle WaterGirl_9
+  - first:
+      213: -8967008988477993806
+    second: Idle WaterGirl_10
+  - first:
+      213: 8872915739596332366
+    second: Idle WaterGirl_11
+  - first:
+      213: -2517912134018587002
+    second: Idle WaterGirl_12
+  - first:
+      213: -8333608438597499299
+    second: Idle WaterGirl_13
+  - first:
+      213: 5747562188438057154
+    second: Idle WaterGirl_14
+  - first:
+      213: -4469009238338854519
+    second: Idle WaterGirl_15
+  - first:
+      213: -7264884977215746026
+    second: Idle WaterGirl_16
+  - first:
+      213: -6001485944441092733
+    second: Idle WaterGirl_17
+  - first:
+      213: 43027849072253246
+    second: Idle WaterGirl_18
+  - first:
+      213: 1441605833079491874
+    second: Idle WaterGirl_19
+  - first:
+      213: -4417741017928403419
+    second: Idle WaterGirl_20
+  - first:
+      213: -1168516896713250879
+    second: Idle WaterGirl_21
+  - first:
+      213: 7663155581635169129
+    second: Idle WaterGirl_22
+  - first:
+      213: -2891080580040879334
+    second: Idle WaterGirl_23
+  - first:
+      213: -6291961550027066906
+    second: Idle WaterGirl_24
+  - first:
+      213: 4808915282495529308
+    second: Idle WaterGirl_25
+  - first:
+      213: 3838433097927230615
+    second: Idle WaterGirl_26
+  - first:
+      213: -4966246330188199760
+    second: Idle WaterGirl_27
+  - first:
+      213: -2006631203374559388
+    second: Idle WaterGirl_28
+  - first:
+      213: 1213343605723815014
+    second: Idle WaterGirl_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle WaterGirl_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1352
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787caa3eed4aa9fe0800000000000000
+      internalID: -1181450675022018681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1352
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f03ebe14bbdb0780800000000000000
+      internalID: -8715631087189085962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1352
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea36049514d456f0800000000000000
+      internalID: -696698853192746263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1348
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a2fc3a76fe85a0800000000000000
+      internalID: -6517000605889551485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1352
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b586e0664c3621620800000000000000
+      internalID: 2743364818199013467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1352
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871f594c0751e680800000000000000
+      internalID: -8727598892585117813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1352
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef235ad03b6ce90800000000000000
+      internalID: -7005715299140698465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1352
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c90b21d0ceba920800000000000000
+      internalID: 3002753117464861704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_8
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1352
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965e22d1f516434d0800000000000000
+      internalID: -3155790377741261463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_9
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1352
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425de539aca99a110800000000000000
+      internalID: 1272718564555412772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_10
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1352
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcc80095d8ce8380800000000000000
+      internalID: -8967008988477993806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_11
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1352
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d9c9cbadde22b70800000000000000
+      internalID: 8872915739596332366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_12
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1352
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6862d2c21449e0dd0800000000000000
+      internalID: -2517912134018587002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_13
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1352
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c2384743195c80800000000000000
+      internalID: -8333608438597499299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_14
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1352
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c03156cb5173cf40800000000000000
+      internalID: 5747562188438057154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1184
+        width: 96
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981afda86c3eaf1c0800000000000000
+      internalID: -4469009238338854519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1184
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610dbfeaa91fd2b90800000000000000
+      internalID: -7264884977215746026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1184
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385c61da45076bca0800000000000000
+      internalID: -6001485944441092733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1184
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39966bc99dd89000800000000000000
+      internalID: 43027849072253246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_19
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1184
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d85d20edc910410800000000000000
+      internalID: 1441605833079491874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_20
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1184
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52674bc43f701b2c0800000000000000
+      internalID: -4417741017928403419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_21
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1184
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c76d51d21898cfe0800000000000000
+      internalID: -1168516896713250879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_22
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1184
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8aed766ff85a60800000000000000
+      internalID: 7663155581635169129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_23
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1184
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1312a1b781d0e7d0800000000000000
+      internalID: -2891080580040879334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_24
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1184
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e178367e467ea8a0800000000000000
+      internalID: -6291961550027066906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_25
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1187
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51e71088f2bcb240800000000000000
+      internalID: 4808915282495529308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_26
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1187
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7940e00d09ad44530800000000000000
+      internalID: 3838433097927230615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_27
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1187
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b88b066649541bb0800000000000000
+      internalID: -4966246330188199760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_28
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1187
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f05a75d830724e0800000000000000
+      internalID: -2006631203374559388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle WaterGirl_29
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1187
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cd8a1b499a6d010800000000000000
+      internalID: 1213343605723815014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
