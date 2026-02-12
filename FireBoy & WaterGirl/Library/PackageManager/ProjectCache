@@ -6,7 +6,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639056422400482080
+      ticks: 639065065900835929
     m_Hash: 3080240458
   m_LockFileStatus:
     m_FilePath: C:/Users/rodri/Desktop/DAM2/MPO II/Proyecto_Videojuego/FireBoy &
@@ -15,7 +15,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639056422400492085
+      ticks: 639065065900845914
     m_Hash: 337857496
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -1177,6 +1177,7 @@ m_PackageAssets:
         - 2.0.23
         - 2.0.25
         - 2.0.26
+        - 2.0.27
         compatible:
         - 1.0.2
         - 1.0.3
