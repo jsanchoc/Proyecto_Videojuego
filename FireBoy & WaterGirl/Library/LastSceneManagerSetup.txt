@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/gabriel/Scenes/MenuInicio.unity
+- path: Assets/gabriel/Scenes/MenuEscena.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
