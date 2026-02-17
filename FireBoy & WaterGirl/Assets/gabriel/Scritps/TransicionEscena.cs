@@ -24,7 +24,7 @@ public class TransicionEscena : MonoBehaviour
 
     IEnumerator CambiarEscena()
     {
-        animator.SetTrigger("Iniciar");
+        animator.SetTrigger("Iniciando");
 
         yield return new WaitForSeconds(animacionFinal.length);
 

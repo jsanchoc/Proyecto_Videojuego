@@ -23,7 +23,7 @@ public class MenuInicial : MonoBehaviour
 
     public void Salir()
     {
-        Debug.Log("SALIR...");
+        Debug.Log("Saliendo...");
         Application.Quit();
     }
 
