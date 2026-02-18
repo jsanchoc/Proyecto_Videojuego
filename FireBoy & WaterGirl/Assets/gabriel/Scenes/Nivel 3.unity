@@ -370,6 +370,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FireBoy
       objectReference: {fileID: 0}
+    - target: {fileID: 626901445962683819, guid: 61b6b5da59909cf46b9e839186a523b8, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61b6b5da59909cf46b9e839186a523b8, type: 3}
 --- !u!1001 &1100614402175813831
@@ -430,6 +434,10 @@ PrefabInstance:
     - target: {fileID: 1100614401535857573, guid: 221894ea991bbe146a211ac3f9af085c, type: 3}
       propertyPath: m_Name
       value: WaterGirl
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100614401535857573, guid: 221894ea991bbe146a211ac3f9af085c, type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 221894ea991bbe146a211ac3f9af085c, type: 3}
