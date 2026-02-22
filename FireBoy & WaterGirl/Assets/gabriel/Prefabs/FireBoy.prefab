@@ -118,7 +118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd5f759061ec16740b3b6ce7fb6c9b99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fuerzaSalto: 7
+  fuerzaSalto: 8
   velocidad: 5
   estaEnSuelo: 0
 --- !u!50 &626901445962683830
