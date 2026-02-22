@@ -3,10 +3,10 @@ using UnityEngine.SceneManagement;
 public class ControlPuerta : MonoBehaviour
 {
     private Animator anim;
-    private int personajesEnLaPuerta = 0; // Contador de personajes
+    private int personajesEnLaPuerta = 0;
 
     [SerializeField] private float velocidadAnim = 0.5f;
-    [SerializeField] private float tiempoEspera = 1.5f; // Tiempo antes de cambiar de nivel
+    [SerializeField] private float tiempoEspera = 1.5f;
 
     void Start()
     {
@@ -16,13 +16,13 @@ public class ControlPuerta : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Detectamos si entró Fireboy o Watergirl
+        // Detectamos si entro
         if (other.name.Contains("Fire") || other.name.Contains("Water"))
         {
-            personajesEnLaPuerta++; // Sumamos 1 al contador
-            anim.SetBool("estaCerca", true); // Se abre si hay al menos uno
+            personajesEnLaPuerta++;
+            anim.SetBool("estaCerca", true);
 
-            // Si ambos están dentro (2 personajes)
+            // Si ambos están dentro 
             if (personajesEnLaPuerta >= 2)
             {
                 Debug.Log("¡Ambos llegaron! Pasando de nivel...");
@@ -35,12 +35,12 @@ public class ControlPuerta : MonoBehaviour
     {
         if (other.name.Contains("Fire") || other.name.Contains("Water"))
         {
-            personajesEnLaPuerta--; // Restamos 1 al salir
+            personajesEnLaPuerta--;
 
             // Si no queda nadie, se cierra la puerta
             if (personajesEnLaPuerta <= 0)
             {
-                personajesEnLaPuerta = 0; // Seguridad para no tener números negativos
+                personajesEnLaPuerta = 0;
                 anim.SetBool("estaCerca", false);
             }
         }
