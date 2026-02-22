@@ -6,7 +6,7 @@ public class Fireboy : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer spr;
 
-    public float fuerzaSalto = 7f;
+    public float fuerzaSalto = 8f;
     public float velocidad = 5f;
     public bool estaEnSuelo;
 
