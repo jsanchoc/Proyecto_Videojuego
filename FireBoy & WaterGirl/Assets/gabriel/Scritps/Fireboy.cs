@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement; // Importante para reiniciar escenas
 
 public class Fireboy : MonoBehaviour
 {
@@ -19,27 +20,23 @@ public class Fireboy : MonoBehaviour
 
     void Update()
     {
-        // 1. MOVIMIENTO HORIZONTAL (SOLO FLECHAS)
+        // 1. MOVIMIENTO HORIZONTAL
         float movimiento = 0;
-
-        if (Input.GetKey(KeyCode.RightArrow)) // Flecha Derecha
+        if (Input.GetKey(KeyCode.RightArrow))
         {
             movimiento = 1;
             spr.flipX = false;
         }
-        else if (Input.GetKey(KeyCode.LeftArrow)) // Flecha Izquierda
+        else if (Input.GetKey(KeyCode.LeftArrow))
         {
             movimiento = -1;
             spr.flipX = true;
         }
 
         rb.velocity = new Vector2(movimiento * velocidad, rb.velocity.y);
-
-        // Actualiza el parámetro 'corre' del Animator
         anim.SetFloat("corre", Mathf.Abs(movimiento));
 
-
-        // 2. SALTO (SOLO FLECHA ARRIBA)
+        // 2. SALTO
         if (Input.GetKeyDown(KeyCode.UpArrow) && estaEnSuelo)
         {
             rb.velocity = new Vector2(rb.velocity.x, fuerzaSalto);
@@ -48,6 +45,7 @@ public class Fireboy : MonoBehaviour
         }
     }
 
+    // Se ejecuta al chocar con objetos sólidos
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Suelo"))
@@ -55,5 +53,26 @@ public class Fireboy : MonoBehaviour
             estaEnSuelo = true;
             anim.SetBool("salta", false);
         }
+
+        // Si el agua NO es trigger
+        if (collision.gameObject.CompareTag("Agua"))
+        {
+            ReiniciarNivel();
+        }
+    }
+
+    // Se ejecuta si el agua tiene "Is Trigger" activado (Recomendado para efectos de muerte)
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Agua"))
+        {
+            ReiniciarNivel();
+        }
+    }
+
+    void ReiniciarNivel()
+    {
+        // Obtiene el nombre de la escena actual y la vuelve a cargar
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

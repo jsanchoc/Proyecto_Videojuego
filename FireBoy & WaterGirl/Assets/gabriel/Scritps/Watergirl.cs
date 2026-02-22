@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement; // Necesario para reiniciar el nivel
 
 public class Watergirl : MonoBehaviour
 {
@@ -19,27 +20,24 @@ public class Watergirl : MonoBehaviour
 
     void Update()
     {
-        // 1. MOVIMIENTO HORIZONTAL (SOLO A y D)
+        // 1. MOVIMIENTO HORIZONTAL (A y D)
         float movimiento = 0;
 
-        if (Input.GetKey(KeyCode.D)) // Derecha
+        if (Input.GetKey(KeyCode.D))
         {
             movimiento = 1;
             spr.flipX = false;
         }
-        else if (Input.GetKey(KeyCode.A)) // Izquierda
+        else if (Input.GetKey(KeyCode.A))
         {
             movimiento = -1;
             spr.flipX = true;
         }
 
         rb.velocity = new Vector2(movimiento * velocidad, rb.velocity.y);
-
-        // Actualiza el parámetro 'corre' del Animator
         anim.SetFloat("corre", Mathf.Abs(movimiento));
 
-
-        // 2. SALTO (SOLO TECLA W)
+        // 2. SALTO (Tecla W)
         if (Input.GetKeyDown(KeyCode.W) && estaEnSuelo)
         {
             rb.velocity = new Vector2(rb.velocity.x, fuerzaSalto);
@@ -50,10 +48,23 @@ public class Watergirl : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        // Detección de suelo
         if (collision.gameObject.CompareTag("Suelo"))
         {
             estaEnSuelo = true;
             anim.SetBool("salta", false);
         }
+
+        // SI TOCA LA LAVA (Muerte de Watergirl)
+        if (collision.gameObject.CompareTag("Lava"))
+        {
+            ReiniciarNivel();
+        }
+    }
+
+    void ReiniciarNivel()
+    {
+        // Recarga la escena actual
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
