@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ff565074ca94441c5aa2d42e27a9f721
+guid: e2cbb8fcfddad4ea0a979f4467f58f2d
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -143,10 +143,10 @@ TextureImporter:
       name: Run FireBoy_0
       rect:
         serializedVersion: 2
-        x: 69
-        y: 1179
-        width: 82
-        height: 103
+        x: 79
+        y: 1196
+        width: 64
+        height: 76
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,10 +164,10 @@ TextureImporter:
       name: Run FireBoy_1
       rect:
         serializedVersion: 2
-        x: 226
-        y: 1177
-        width: 82
-        height: 104
+        x: 238
+        y: 1196
+        width: 65
+        height: 76
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: Run FireBoy_2
       rect:
         serializedVersion: 2
-        x: 382
-        y: 1178
-        width: 84
-        height: 104
+        x: 392
+        y: 1197
+        width: 71
+        height: 75
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: Run FireBoy_3
       rect:
         serializedVersion: 2
-        x: 539
-        y: 1177
-        width: 86
-        height: 106
+        x: 556
+        y: 1195
+        width: 67
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,10 +227,10 @@ TextureImporter:
       name: Run FireBoy_4
       rect:
         serializedVersion: 2
-        x: 687
-        y: 1179
-        width: 89
-        height: 105
+        x: 701
+        y: 1196
+        width: 74
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,10 +248,10 @@ TextureImporter:
       name: Run FireBoy_5
       rect:
         serializedVersion: 2
-        x: 851
-        y: 1183
-        width: 105
-        height: 100
+        x: 862
+        y: 1197
+        width: 73
+        height: 76
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: Run FireBoy_6
       rect:
         serializedVersion: 2
-        x: 1014
-        y: 1179
-        width: 84
-        height: 104
+        x: 1020
+        y: 1196
+        width: 75
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,10 +290,10 @@ TextureImporter:
       name: Run FireBoy_7
       rect:
         serializedVersion: 2
-        x: 1165
-        y: 1176
-        width: 81
-        height: 106
+        x: 1168
+        y: 1193
+        width: 74
+        height: 79
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

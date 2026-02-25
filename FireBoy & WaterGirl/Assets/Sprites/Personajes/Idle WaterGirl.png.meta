@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 71ae396a805ed43da85f95367bf46a17
+guid: 63781de0a67ac4ad48e616f282d45997
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -197,10 +197,10 @@ TextureImporter:
       name: Idle WaterGirl_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 1352
-        width: 96
-        height: 128
+        x: 39
+        y: 1370
+        width: 57
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +218,10 @@ TextureImporter:
       name: Idle WaterGirl_1
       rect:
         serializedVersion: 2
-        x: 153
-        y: 1352
-        width: 92
-        height: 128
+        x: 174
+        y: 1370
+        width: 56
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,10 +239,10 @@ TextureImporter:
       name: Idle WaterGirl_2
       rect:
         serializedVersion: 2
-        x: 287
-        y: 1352
-        width: 92
-        height: 128
+        x: 308
+        y: 1370
+        width: 56
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: Idle WaterGirl_3
       rect:
         serializedVersion: 2
-        x: 421
-        y: 1348
-        width: 92
-        height: 132
+        x: 442
+        y: 1366
+        width: 56
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,10 +281,10 @@ TextureImporter:
       name: Idle WaterGirl_4
       rect:
         serializedVersion: 2
-        x: 555
-        y: 1352
-        width: 92
-        height: 128
+        x: 575
+        y: 1370
+        width: 57
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: Idle WaterGirl_5
       rect:
         serializedVersion: 2
-        x: 689
-        y: 1352
-        width: 92
-        height: 128
+        x: 709
+        y: 1370
+        width: 57
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: Idle WaterGirl_6
       rect:
         serializedVersion: 2
-        x: 818
-        y: 1352
-        width: 92
-        height: 129
+        x: 839
+        y: 1370
+        width: 56
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: Idle WaterGirl_7
       rect:
         serializedVersion: 2
-        x: 952
-        y: 1352
-        width: 92
-        height: 129
+        x: 973
+        y: 1370
+        width: 56
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: Idle WaterGirl_8
       rect:
         serializedVersion: 2
-        x: 1086
-        y: 1352
-        width: 92
-        height: 129
+        x: 1107
+        y: 1370
+        width: 56
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +386,10 @@ TextureImporter:
       name: Idle WaterGirl_9
       rect:
         serializedVersion: 2
-        x: 1220
-        y: 1352
-        width: 92
-        height: 129
+        x: 1241
+        y: 1370
+        width: 56
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

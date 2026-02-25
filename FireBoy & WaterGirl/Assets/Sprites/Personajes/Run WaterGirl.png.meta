@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 79656984a98f04109891795d505cd426
+guid: d4533b12cdf404743a1a632d6295df15
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -131,12 +131,12 @@ TextureImporter:
       name: Run WaterGirl_0
       rect:
         serializedVersion: 2
-        x: 221
-        y: 1439
-        width: 114
-        height: 119
+        x: 226
+        y: 1456
+        width: 93
+        height: 83
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -152,12 +152,12 @@ TextureImporter:
       name: Run WaterGirl_1
       rect:
         serializedVersion: 2
-        x: 398
-        y: 1439
-        width: 115
-        height: 120
+        x: 406
+        y: 1458
+        width: 92
+        height: 77
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -173,12 +173,12 @@ TextureImporter:
       name: Run WaterGirl_2
       rect:
         serializedVersion: 2
-        x: 576
-        y: 1440
-        width: 116
-        height: 120
+        x: 581
+        y: 1459
+        width: 94
+        height: 77
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,12 +194,12 @@ TextureImporter:
       name: Run WaterGirl_3
       rect:
         serializedVersion: 2
-        x: 752
-        y: 1440
-        width: 118
-        height: 121
+        x: 762
+        y: 1457
+        width: 92
+        height: 79
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -215,12 +215,12 @@ TextureImporter:
       name: Run WaterGirl_4
       rect:
         serializedVersion: 2
-        x: 931
-        y: 1437
-        width: 131
-        height: 125
+        x: 939
+        y: 1455
+        width: 95
+        height: 83
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -236,12 +236,12 @@ TextureImporter:
       name: Run WaterGirl_5
       rect:
         serializedVersion: 2
-        x: 1118
-        y: 1438
-        width: 119
-        height: 122
+        x: 1131
+        y: 1456
+        width: 88
+        height: 82
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -257,12 +257,12 @@ TextureImporter:
       name: Run WaterGirl_6
       rect:
         serializedVersion: 2
-        x: 1295
-        y: 1438
-        width: 118
-        height: 121
+        x: 1310
+        y: 1456
+        width: 87
+        height: 82
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -278,12 +278,12 @@ TextureImporter:
       name: Run WaterGirl_7
       rect:
         serializedVersion: 2
-        x: 1475
-        y: 1437
-        width: 116
-        height: 121
+        x: 1488
+        y: 1454
+        width: 89
+        height: 84
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

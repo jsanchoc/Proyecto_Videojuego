@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9c50cfa67b5dc4f5ca6f7a069699db81
+guid: fc316c6b8c27142d7bacac51a56cfbb8
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -58,7 +58,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
@@ -122,10 +122,10 @@ TextureImporter:
       name: WaterGirl Jump_0
       rect:
         serializedVersion: 2
-        x: 861
-        y: 739
-        width: 86
-        height: 118
+        x: 875
+        y: 753
+        width: 54
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,10 +143,10 @@ TextureImporter:
       name: WaterGirl Jump_1
       rect:
         serializedVersion: 2
-        x: 994
-        y: 736
-        width: 89
-        height: 121
+        x: 1011
+        y: 753
+        width: 54
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,10 +164,10 @@ TextureImporter:
       name: WaterGirl Jump_2
       rect:
         serializedVersion: 2
-        x: 1130
-        y: 736
-        width: 89
-        height: 121
+        x: 1147
+        y: 754
+        width: 54
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: WaterGirl Jump_3
       rect:
         serializedVersion: 2
-        x: 1266
-        y: 662
-        width: 89
-        height: 121
+        x: 1283
+        y: 680
+        width: 54
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: WaterGirl Jump_4
       rect:
         serializedVersion: 2
-        x: 1402
-        y: 662
-        width: 89
-        height: 121
+        x: 1419
+        y: 680
+        width: 54
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

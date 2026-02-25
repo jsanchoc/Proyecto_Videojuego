@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fe6e628f905ec489f812381f4ebfcb5c
+guid: 42361beb59e6545839851fb8df04cc3d
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -149,10 +149,10 @@ TextureImporter:
       name: FireBoy Jump_1
       rect:
         serializedVersion: 2
-        x: 420
-        y: 846
-        width: 86
-        height: 115
+        x: 439
+        y: 863
+        width: 51
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: FireBoy Jump_3
       rect:
         serializedVersion: 2
-        x: 419
-        y: 714
-        width: 86
-        height: 113
+        x: 439
+        y: 731
+        width: 51
+        height: 76
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: FireBoy Jump_4
       rect:
         serializedVersion: 2
-        x: 530
-        y: 729
-        width: 86
-        height: 130
+        x: 549
+        y: 763
+        width: 51
+        height: 76
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +233,10 @@ TextureImporter:
       name: FireBoy Jump_5
       rect:
         serializedVersion: 2
-        x: 640
-        y: 714
-        width: 86
-        height: 115
+        x: 659
+        y: 731
+        width: 51
+        height: 78
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +254,10 @@ TextureImporter:
       name: FireBoy Jump_6
       rect:
         serializedVersion: 2
-        x: 750
-        y: 714
-        width: 86
-        height: 115
+        x: 769
+        y: 731
+        width: 51
+        height: 78
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
